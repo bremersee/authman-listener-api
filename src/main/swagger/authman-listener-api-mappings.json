@@ -1,0 +1,12 @@
+{
+  "importMappings": {
+    "Enabled": "org.bremersee.authman.listener.model.Enabled",
+    "NewEmail": "org.bremersee.authman.listener.model.NewEmail",
+    "NewMobile": "org.bremersee.authman.listener.model.NewMobile",
+    "NewPassword": "org.bremersee.authman.listener.model.NewPassword",
+    "NewRoles": "org.bremersee.authman.listener.model.NewRoles",
+    "UserProfileChangeEvent": "org.bremersee.authman.listener.model.UserProfileChangeEvent",
+    "UserProfileCreationEvent": "org.bremersee.authman.listener.model.UserProfileCreationEvent",
+    "UserProfileRegistrationRequestEvent": "org.bremersee.authman.listener.model.UserProfileRegistrationRequestEvent"
+  }
+}
